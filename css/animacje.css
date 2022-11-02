@@ -1,0 +1,30 @@
+@keyframes opacity{
+    0%    {opacity: 0%;}
+    10%   {opacity: 10%;}
+    20%   {opacity: 20%;}
+    30%   {opacity: 30%;}
+    40%   {opacity: 40%;}
+    50%   {opacity: 50%;}
+    60%   {opacity: 60%;}
+    70%   {opacity: 70%;}
+    80%   {opacity: 80%;}
+    90%   {opacity: 90%;}
+    100%  {opacity: 100%;}
+}
+@keyframes shake {
+    10%, 90% {
+      transform: translate3d(-1px, 0, 0);
+    }
+
+    20%, 80% {
+      transform: translate3d(2px, 0, 0);
+    }
+
+    30%, 50%, 70% {
+      transform: translate3d(-4px, 0, 0);
+    }
+
+    40%, 60% {
+      transform: translate3d(4px, 0, 0);
+    }
+  }

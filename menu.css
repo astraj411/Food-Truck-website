@@ -1,0 +1,115 @@
+.menu2{
+    width: initial;
+    height: 1300px;
+    background-image: #CDB891;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size:24px;
+    font-family: roboto;
+    padding: 20px;
+    padding-left:40px;
+}
+.menu2-color{
+    width: initial;
+    height: 1300px;
+    background-color: #0f0d05;
+    width: initial;
+    height: 1300px;
+}
+.menu-podzial1{
+    margin-top: 30px;
+    height:500px;
+    width: 40%;
+    float:left;
+    vertical-align: top;
+    padding-left: 60px;
+    font-size: 30px;
+}
+.menu-podzial1-2{
+    width: 15%;
+    height:500px;
+    vertical-align: top;
+}
+.menu-podzial2{
+    height:500px;
+    width: 50%;
+    float: right;
+    vertical-align: top;
+    padding:20px;
+    font-size: 26px;
+}
+.menu-podzial2-2{
+    width: 15%;
+    height:500px;
+    vertical-align: top;
+}
+.menu-podzial3{
+    display: flex;
+    height:100px;
+    width: 100%;
+    justify-content: flex-start;
+    padding:20px;
+    padding-top: 450px;
+}.menu2{
+    width: initial;
+    height: 1300px;
+    font-size:30px;
+    font-family: roboto;
+    padding: 20px;
+    padding-left:40px;
+}
+.menu2-color{
+    width: initial;
+    height: 1300px;
+    background-color: #C2B280;;
+    width: initial;
+    height: 1300px;
+}
+.menu-podzial1{
+
+    margin-top: 30px;
+    height:500px;
+    width: 40%;
+    float:left;
+    vertical-align: top;
+    padding-left: 60px;
+}
+.menu-podzial1-2{
+    width: 15%;
+    height:500px;
+    vertical-align: top;
+}
+.menu-podzial2{
+    height:500px;
+    width: 50%;
+    float: right;
+    vertical-align: top;
+    padding:20px;
+}
+.menu-podzial2-2{
+    width: 15%;
+    height:500px;
+    vertical-align: top;
+}
+.menu-podzial3{
+    display: flex;
+    height:100px;
+    width: 100%;
+    justify-content: center;
+    padding:20px;
+    padding-top: 450px;
+}
+
+.obramowanie {
+    border:10px #d1c190 solid;
+    border-radius: 10px;
+    margin:100px;
+    width: initial;
+    height: initial;
+}
+
+.plecy {
+   border:solid 1px black;
+   /* background-color: #c5ba96; */
+   background-image: url("pierogi.jpg");
+}

@@ -1,0 +1,18 @@
+@media screen and (max-width:500px) {
+        .plecy, .obramowanie, .menu2-color{
+            display: none;
+        }
+        .menu-mobile-2{
+            border-style: solid;
+            background-color:#C2B280;
+            padding: 20px;
+            font-size: 20px;
+            
+        }
+      
+}
+@media screen and (min-width:500px){
+    .menu-mobile-2{
+        display: none;
+    }
+}
